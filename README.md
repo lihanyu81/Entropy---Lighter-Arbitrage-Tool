@@ -14,6 +14,11 @@
 [![Platform](https://img.shields.io/badge/platform-Linux%20x86__64-orange)](#)
 [![GitHub Stars](https://img.shields.io/github/stars/lihanyu81/Entropy---Lighter-Arbitrage-Tool?style=social)](https://github.com/lihanyu81/Entropy---Lighter-Arbitrage-Tool/stargazers)
 
+使用我的邀请码注册后填写表单可以使用本款工具。
+
+邀请链接：https://entropy.io/?r=pandazhai
+填写表单：https://docs.google.com/forms/d/e/1FAIpQLSdjBUWyvJC7VyBrURAuV-ZYy5q_egLyrku9lLDgSiPhTExRJQ/viewform?usp=publish-editor
+
 本工具用于监控 Hyperliquid `io:SNDK` 与 Lighter `SNDK` 之间的订单簿价差，并根据配置执行双边价差交易。
 
 Hyperliquid 与 Lighter 是两个独立交易所，订单簿、账户、API Key、Market Index、保证金和账户状态彼此独立。本工具同时读取两边行情，在满足策略、样本、盘口深度和风控条件时并行执行两腿订单。
